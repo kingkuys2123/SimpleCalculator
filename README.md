@@ -1,2 +1,26 @@
 <h1 align="center">Simple Calculator</h1>
-<h3 align="center">An OOP2 NetBeans IDE Activity</h3>
+<h3 align="center">A Java OOP2 GUI Activity</h3>
+
+<br>
+
+## Project Info
+
+#### Languages:
+
+<a href="#languages">
+    <img src="https://camo.githubusercontent.com/b0648ef7a9b6980ea27c1caaeb06d5c8503dbb4f9b4d9d7ca1df60a5edc14340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" />
+</a>
+
+#### Tools:
+
+<a href="#Tools">
+  <img src="https://camo.githubusercontent.com/4794c74bc35bf04f019049732c190687a6b7b1bf250333655e80c8a1037b6997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65744265616e734944452d3142364143362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170616368652d6e65746265616e732d696465266c6f676f436f6c6f723d7768697465"/>
+</a>
+
+<br>
+
+## Screenshots
+
+<p align="center">
+  <img src="https://i.imgur.com/8Peftzy.png" alt="Alt Text">
+</p>
